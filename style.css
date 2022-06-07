@@ -16,5 +16,9 @@ p {font-size: 14px;}
     * {background-color: #B0E298;
     color: #000;
     margin-left: 20px;}
-    
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
